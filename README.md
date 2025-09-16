@@ -20,7 +20,7 @@ Hello! I'm a passionate and highly skilled QA Analyst dedicated to ensuring soft
 ### 1. Manual Test Case Suite
 A comprehensive suite of test cases I developed for a well-known public application. This project demonstrates my ability to analyze requirements, identify various testing scenarios (positive, negative, and boundary), and create clear, reproducible test cases.
 
-- **View Project:** https://github.com/angras2881/Portfolio/blob/main/test%20cases%20and%20bugs/Test%20Cases..xlsx
+- **View Project:** https://docs.google.com/spreadsheets/d/1REyks0_eu_QzCY349J__2OOamVBh0Ac8AIV9atPZNKE/edit?usp=sharing
 
 ### 2. Sample Bug Reports
 A collection of detailed bug reports with clear reproduction steps, expected/actual results, and visual evidence. This project highlights my skill in communicating defects effectively to development teams.

@@ -36,7 +36,7 @@ An automation project where I built tests for a web application's key features u
 A simple and interactive web application built with HTML, CSS, and JavaScript. This project showcases my skills in front-end development and my approach to quality assurance.
 
 - 
-- **View Code on GitHub:** [Link to the `todo-planner` repository]
+- **View Code on GitHub:** https://github.com/angras2881/todo-planner
 
 ---
 

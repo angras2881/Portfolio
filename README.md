@@ -36,5 +36,5 @@ An automation project where I built tests for a web application's key features u
 
 ## Let's Connect!
 
-- **LinkedIn:** [Link to your LinkedIn Profile]
-- **Email:** [Your Email Address]
+- **LinkedIn:** www.linkedin.com/in/shipra-angra-449944233
+- **Email:** angrashipra@gmail.com

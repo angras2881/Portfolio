@@ -30,7 +30,7 @@ A collection of detailed bug reports with clear reproduction steps, expected/act
 ### 3. Automated Test Scripts
 An automation project where I built tests for a web application's key features using Cypress.io. The code is well-structured and demonstrates my proficiency in test automation.
 
-- **View Code on GitHub:** [Link to your separate automation repository]
+- **View Code on GitHub:** https://github.com/angras2881/cypress-automation
 
 ---
 

@@ -25,7 +25,7 @@ A comprehensive suite of test cases I developed for a well-known public applicat
 ### 2. Sample Bug Reports
 A collection of detailed bug reports with clear reproduction steps, expected/actual results, and visual evidence. This project highlights my skill in communicating defects effectively to development teams.
 
-- **View Bug Reports:** [Link to your project folder/file]
+- **View Bug Reports:** https://docs.google.com/document/d/1kz9ndDuJ9ZsYCUJS2ZeyaMbEUjc2AOq0-JgMTUIR1A4/edit?usp=sharing
 
 ### 3. Automated Test Scripts
 An automation project where I built tests for a web application's key features using Cypress.io. The code is well-structured and demonstrates my proficiency in test automation.
